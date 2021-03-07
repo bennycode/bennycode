@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 - 🙂 My name is [Benny](http://bennycode.com/)
-- ✨ I’m fascinated with [TypeScript](https://typescript.tv/).
-- 🛠️ I work at [Wire](https://wire.com/). 
-- 🚀 We bring E2EE to [the next level](https://en.wikipedia.org/wiki/Messaging_Layer_Security).
+- ☀️️ During the day I work at [Wire](https://wire.com/). 
+- 🌑 During the night I record for [TypeScript TV](https://typescript.tv/).
+- 💦 And in between I go wakeboarding.
