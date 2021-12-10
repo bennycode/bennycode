@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Welcome to my GitHub profile. My name is [Benny](http://bennycode.com/) and you are probably using software to which I contributed (Visual Studio Code, TypeScript, Node.js, Electron, Prettier, ESLint). ✨
+Welcome to my GitHub profile. My name is [Benny](http://bennycode.com/) (he/him) and you are probably using software to which I contributed (Visual Studio Code, TypeScript, Node.js, Electron, Prettier, ESLint). ✨
 
 I enjoy working on open source software very much because you can learn a ton from it. It teaches you how to communicate, coordinate and cooperate with others and ultimately becoming a better developer. That's the spirit that I like, live & share.
 
