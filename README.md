@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. My name is [Benny](http://bennycode.com/) (he/him) and you are probably using software to which I contributed (Visual Studio Code, TypeScript, Node.js, Electron, Prettier, ESLint). ✨
 
-I enjoy working on open source software very much because you can learn a ton from it. It teaches you how to communicate, coordinate and cooperate with others and ultimately becoming a better developer. That's the spirit that I like, live & share.
+I enjoy working on open source software very much because it teaches me (and you) how to communicate, coordinate and cooperate with others. That's the spirit I like, live & share. Let's build great software together. 💪
 
 During the day, I work for [South Pole](https://www.southpole.com/) where we take climate action. In my spare time, [I answer questions on StackOverflow](https://stackoverflow.com/users/451634/) and [share my knowledge about TypeScript on YouTube](https://www.youtube.com/typescripttv). 🎬
 
