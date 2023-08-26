@@ -22,3 +22,8 @@ Benny
 - [Using React with TypeScript](https://typescript.tv/react/use-react-with-typescript/)
 - [Switching from JavaScript to TypeScript (German)](https://www.heise.de/hintergrund/Wie-Wire-von-JavaScript-zu-TypeScript-wechselte-Tipps-fuer-die-Migration-4567887.html)
 - [Developing Windows Store Apps with HTML5](https://www.gamedeveloper.com/programming/developing-windows-store-apps-with-html5---a-showcase)
+
+**Here are some talks I gave in the past:**
+- [Type Guards and how they can improve your code quality](https://github.com/bennycode/show-type-guards)
+- [Code Generation With TypeScript](https://github.com/bennycode/code-generation-with-ts)
+- [Getting Started with React v16](https://de.slideshare.net/bennyneugebauer/getting-started-with-react-v16)
