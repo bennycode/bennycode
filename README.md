@@ -18,10 +18,14 @@ Benny
 - [Improving your switch-case statements](https://www.youtube.com/watch?v=8N_P-l5Kukk)
 
 **Here are some of my most read blog posts:**
-- [Six ways to configure Webpack](https://dev.to/typescripttv/6-ways-to-configure-webpack-5a33)
-- [Using React with TypeScript](https://typescript.tv/react/use-react-with-typescript/)
-- [Switching from JavaScript to TypeScript (German)](https://www.heise.de/hintergrund/Wie-Wire-von-JavaScript-zu-TypeScript-wechselte-Tipps-fuer-die-Migration-4567887.html)
-- [Developing Windows Store Apps with HTML5](https://www.gamedeveloper.com/programming/developing-windows-store-apps-with-html5---a-showcase)
+- [Expo: How to add an animated splash screen](https://expo.dev/blog/how-to-add-an-animated-splash-screen-with-expo-custom-assets)
+- [heise: Defensives Programmieren](https://www.heise.de/ratgeber/Defensives-Programmieren-Robusten-Code-mit-TypeScript-erzeugen-9320247.html)
+- [Wire: Speeding up crypto on Wire desktop apps](https://wireapp.medium.com/speeding-up-crypto-on-wire-desktop-apps-3ff37fc98c3f)
+- [iX: Defensives Programmieren](https://www.heise.de/select/ix/2023/11/2321411555795120961)
+- [Dev.to: Six ways to configure Webpack](https://dev.to/typescripttv/6-ways-to-configure-webpack-5a33)
+- [TypeScript TV: Using React with TypeScript](https://typescript.tv/react/use-react-with-typescript/)
+- [heise: JavaScript zu TypeScript](https://www.heise.de/hintergrund/Wie-Wire-von-JavaScript-zu-TypeScript-wechselte-Tipps-fuer-die-Migration-4567887.html)
+- [Game Developer: Developing Windows Store Apps with HTML5](https://www.gamedeveloper.com/programming/developing-windows-store-apps-with-html5---a-showcase)
 
 **Here are some talks I gave in the past:**
 - [Type Guards and how they can improve your code quality](https://github.com/bennycode/show-type-guards)
