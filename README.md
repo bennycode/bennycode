@@ -1,10 +1,10 @@
 ### Hi there! 👋
 
-My name is Benny (he/him), and chances are you've used some software that I've contributed to, such as Visual Studio Code, TypeScript, Node.js, Electron, Prettier, and ESLint. ✨
+My name is Benny, and chances are you've used some software that I've contributed to, such as Visual Studio Code, TypeScript, Node.js, Electron, Prettier, and ESLint. ✨
 
 I'm passionate about open source software because it provides opportunities for us to learn how to communicate, coordinate, and cooperate with others. That's the spirit that drives me, and I believe it's what helps us build great software together. 💪
 
-During the day, I work for [South Pole](https://www.southpole.com/) where we take climate action. In my spare time, [I answer questions on StackOverflow](https://stackoverflow.com/users/451634/) and [share my knowledge about TypeScript on YouTube](https://www.youtube.com/typescripttv). 🎬
+In my spare time, [I answer questions on StackOverflow](https://stackoverflow.com/users/451634/) and [share my knowledge about TypeScript on YouTube](https://www.youtube.com/typescripttv). 🎬
 
 Feel free to write me if you have questions about programming or want to work on exciting projects with me. I do maintain a library of [popular trading indicators](https://github.com/bennycode/trading-signals).
 
